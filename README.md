@@ -1,3 +1,11 @@
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaehehehe&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaehehehe&layout=compact&theme=dracula" />
+</div>
+
+
+
+
 
 <h3 align="left">My Skills</h3>
 <p align="left">
