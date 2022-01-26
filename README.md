@@ -1,8 +1,10 @@
+<div>  
   <img align="left" width="47%" height="180em" src="https://github-readme-stats.vercel.app/api?username=kaehehehe&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
-  <img width="47%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaehehehe&layout=compact&theme=dracula" />
+  <img align="left" width="47%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaehehehe&layout=compact&theme=dracula" />
+</div>
 
 <br/>
-<h3 align=""left style='color: #DD6387'>✨&nbsp;My Skills</h3>
+<h3>✨&nbsp;My Skills</h3>
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -13,7 +15,7 @@
 </p>
 
 <br/>
-<h3 style='color: #DD6387'>✏️&nbsp;I'm currently learning...</h3>
+<h3>✏️&nbsp;I'm currently learning...</h3>
 <p>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
