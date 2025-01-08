@@ -5,6 +5,7 @@ Hi there 👋 I'm Kae.
 - 📍 Born and raised in Japan, currently based in South Korea.
 - 🗣 Fluent in Japanese and Korean; basic English skills.
 - 🌈 A core member of [Yamada UI](https://github.com/yamada-ui), working on development and maintenance.
+- 🎨 Love making 3D art work with Blender and React Three Fiber.
 
 ### Contact
 
