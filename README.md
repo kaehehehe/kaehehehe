@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=kaehehehe&color=ff69b4)
+
 Hi there 👋 I'm Kae.
 
 ### About Me
