@@ -12,11 +12,11 @@ Hi there 👋 I'm Kae.
 
 ### Posts
 
-- [Button 컴포넌트 설계하기](https://kae-geek.vercel.app/ko/posts/2025-03-06)
-- [Dialog 컴포넌트 설계하기](https://kae-geek.vercel.app/ko/posts/2025-03-07)
-- [왜 우리 컴포넌트는 props가 점점 많아질까…?](https://kae-geek.vercel.app/ko/posts/2025-03-08)
-- [Render Props Pattern 활용하기 feat. Checkbox 컴포넌트](https://kae-geek.vercel.app/ko/posts/2025-03-09)
-- [children 타입 보장하기](https://kae-geek.vercel.app/ko/posts/2025-03-10)
+- [💭 UI 컴포넌트의 설계가 중요한 이유](https://kae-geek.vercel.app/ko/posts/2025-03-17)
+- [💁‍♀️ 성능 좋은 컴포넌트를 만들기 위해 알아야 할 것들](https://kae-geek.vercel.app/ko/posts/2025-03-16)
+- [🤔 왜 우리 컴포넌트는 props가 점점 많아질까…?](https://kae-geek.vercel.app/ko/posts/2025-03-08)
+- [✅ Render Props Pattern 활용하기 feat. Checkbox 컴포넌트](https://kae-geek.vercel.app/ko/posts/2025-03-09)
+- [👶 PropsWithChildren이라는 타입에 대하여](https://kae-geek.vercel.app/ko/posts/2025-03-15)
 
 
 ### Contact
