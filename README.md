@@ -1,14 +1,18 @@
 ![](https://komarev.com/ghpvc/?username=kaehehehe&color=ff69b4)
 
-Hi there 👋 I'm Kae.
+🙋🏻‍♀️ Hi, I'm Kae!  
+Creative Frontend Engineer | DX Enthusiast | Open Source Maker 
 
 ### About Me
+📍 Japan  ➡️  South Korea  
+🗣️ Japanese (Native), Korean (Fluent), English (Proficient)  
+🌈 Core Member of [Yamada UI](https://github.com/yamada-ui/yamada-ui)  
+🪄 I craft tools that make development smoother, faster, and more joyful.
 
-- 📍 Born and raised in Japan, currently based in South Korea.
-- 🗣 Fluent in Japanese and Korean; basic English skills.
-- 🌈 A core member of [Yamada UI](https://github.com/yamada-ui), working on development and maintenance.
-- 🎨 Love making 3D art work with Blender and React Three Fiber.
-- 🔎 Interested in clean code and design patterns.
+### My Dev Tools
+- [`@kaehehehe/eslint-config`](https://www.npmjs.com/package/@kaehehehe/eslint-config) - 🚀 Instantly sets up ESLint & Prettier with a built-in CLI
+- [`@kaehehehe/visual-console`](https://www.npmjs.com/package/@kaehehehe/visual-console) - 🎨 Makes your console logs pretty and readable  
+- `@kaehehehe/notion-react-renderer` - 🚧 Renders Notion blocks in React (WIP)
 
 
 ### Contact
