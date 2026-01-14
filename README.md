@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=kaehehehe&color=ff69b4)
 
-🙋🏻‍♀️ Hi, I'm Kae!  
-Creative Frontend Engineer | DX Enthusiast | Open Source Maker 
+🙋🏻‍♀️ Hi, I'm Kae!
 
 ### 📌 About Me
 - 📍 Japan  ➡️  South Korea  
